@@ -75,3 +75,8 @@ This page focuses on content ratings and global distribution.
 - Responsive Dashboard Design
 
 ---
+## Dataset
+
+Source: Netflix Movies and TV Shows Dataset (Kaggle)
+
+The dataset contains information about movies and TV shows available on Netflix, including title, country, rating, release year, duration, and category.
