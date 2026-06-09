@@ -47,7 +47,7 @@ This page provides a high-level summary of Netflix content.
 ---
 ### Screenshot
 
-![Executive Overview](dashboard%20photos/overview.png)
+![Executive Overview](Netflix%20Content%20Analytics/dashboard%20photos/overview.png)
 
 
 ---
