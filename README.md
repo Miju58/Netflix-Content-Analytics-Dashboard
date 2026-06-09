@@ -44,6 +44,10 @@ This page provides a high-level summary of Netflix content.
 - Movies account for the majority of Netflix content.
 - The United States has the largest content library.
 - Netflix content grew rapidly after 2015.
+---
+### Screenshot
+
+![Executive Overview](Overview_Page.png)
 
 
 ---
@@ -73,6 +77,11 @@ This page focuses on content ratings and global distribution.
 - Netflix-Themed UI
 - Page Navigation Buttons
 - Responsive Dashboard Design
+---
+### Screenshot
+
+![Content & Geographic Analysis](Analysis_Page.png)
+
 
 ---
 ## Dataset
