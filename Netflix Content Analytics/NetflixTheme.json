@@ -1,0 +1,30 @@
+{
+  "name": "Netflix Dark Theme",
+  "dataColors": [
+    "#E50914",
+    "#B81D24",
+    "#FFFFFF",
+    "#8E8E8E",
+    "#221F1F",
+    "#F5F5F1"
+  ],
+  "background": "#141414",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#E50914",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#141414" } }
+          }
+        ],
+        "title": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    }
+  }
+}
