@@ -47,7 +47,7 @@ This page provides a high-level summary of Netflix content.
 ---
 ### Screenshot
 
-![Executive Overview](Overview_Page.png)
+![Executive Overview](Dashboard%20Screenshots/overview.png)
 
 
 ---
@@ -80,7 +80,7 @@ This page focuses on content ratings and global distribution.
 ---
 ### Screenshot
 
-![Content & Geographic Analysis](Analysis_Page.png)
+![Content & Geographic Analysis](Dashboard%20Screenshots/page2_overview.png)
 
 
 ---
