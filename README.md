@@ -80,7 +80,7 @@ This page focuses on content ratings and global distribution.
 ---
 ### Screenshot
 
-![Content & Geographic Analysis](dashboard%20photos/page2_overview.png)
+![Content & Geographic Analysis](Netflix%20Content%20Analytics/dashboard%20photos/page2%20overview.png)
 
 
 ---
